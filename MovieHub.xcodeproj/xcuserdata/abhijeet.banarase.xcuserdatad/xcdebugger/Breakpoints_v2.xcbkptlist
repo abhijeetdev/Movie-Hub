@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "89F6CDC5-6901-40EB-A762-669DBCEDF907"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6116953A-1F9F-4281-89CA-39332C501E16"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieDBTests/MDServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "190"
+            endingLineNumber = "190">
+            <Locations>
+               <Location
+                  uuid = "6116953A-1F9F-4281-89CA-39332C501E16 - 49586d1374bd408c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, Swift.Error&gt;) -&gt; () in MovieDBTests.MDServiceTests.testNoDataReceived() -&gt; ()"
+                  moduleName = "MovieDBTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhijeet.banarase/Developer/Swift/MovieDB/MovieDBTests/MDServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "592">
+               </Location>
+               <Location
+                  uuid = "6116953A-1F9F-4281-89CA-39332C501E16 - 49586d1374bd4673"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, Swift.Error&gt;) -&gt; () in MovieDBTests.MDServiceTests.testNoDataReceived() -&gt; ()"
+                  moduleName = "MovieDBTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhijeet.banarase/Developer/Swift/MovieDB/MovieDBTests/MDServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "592">
+               </Location>
+               <Location
+                  uuid = "6116953A-1F9F-4281-89CA-39332C501E16 - f55841d9e088f837"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, Swift.Error&gt;) -&gt; () in MovieDBTests.MDServiceTests.testDecodingError() -&gt; ()"
+                  moduleName = "MovieDBTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhijeet.banarase/Developer/Swift/MovieDB/MovieDBTests/MDServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "592">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
