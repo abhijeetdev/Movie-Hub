@@ -29,9 +29,6 @@ https://github.com/abhijeetdev/Movie-Hub/assets/348055/35912075-7ef0-4273-9953-a
 - Unit tests for core functionalities
 - UI tests to ensure consistent user experience
 
-## Known Issues
-
-Layout constraints warning at runtime
 
 ## Next Steps
 
