@@ -11,11 +11,7 @@ final class PeopleCellViewModel {
     
     private let model: People
     private let loader: ImageLoader
-    
-    var name: String {
-        return model.name ?? ""
-    }
-   
+       
     private var imageUrl: URL? {
         return URL(string: "\(URLs.ImageRequest.w185)/\(String(describing: model.profilePath!))")
     }
