@@ -2,7 +2,7 @@
 
 Movie Hub is a iOS app that lets you browse the movie and and watch trailer on Youtube. It's built with a combination of SwiftUI and UIKit, using the MVVM design pattern and Auto Layout for responsive UI. The app is written completely in Swift and leverages [TMDB's free API](https://developer.themoviedb.org/docs) .
 
-![Screen Recording](/Assets/screenRecording.mp4)
+![Screen Recording](MovieHub/Resources/screenRecording.mp4)
 
 ## Key Features
 
